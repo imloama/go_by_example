@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Adding and testing junk
+
 func main() {
 
 	var a [5]int
